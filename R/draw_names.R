@@ -5,6 +5,7 @@
 #'
 #' @import ggplot2
 #' @import dplyr
+#' @import prenoms
 #'
 #' @return a graph
 #' @export

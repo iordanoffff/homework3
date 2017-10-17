@@ -6,6 +6,7 @@
 #' @import ggplot2
 #' @import dplyr
 #' @import assertthat
+#' @import prenoms
 #'
 #' @return a graph
 #' @export
